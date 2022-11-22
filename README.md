@@ -1,6 +1,6 @@
 Hi!
 
-I am [SinaBek](https://sinabek.ir/), a senior PHP developer and chief technology officer at KimiadDP Ltd.
+I am [SinaBek](https://sinabek.ir/), a senior PHP developer and chief technology officer at [KimiadDP](https://kimiadp.ir) Ltd.
 
 ---
 
